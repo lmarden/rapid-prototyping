@@ -26,6 +26,4 @@ Though these technologies are helpful on the large scale, they are both establis
 The [Occa Solar Light](https://occa.namenesolar.com/) is a solar-powered, portable light. This company pledges to donate one of its devices to a person with no access to electricity for each light purchased; they intend to help people have better access to sustainable light sourcesfor better safety and ability to read, study, or work at night.
 
 ### Solar Cooking
-The picture below demonstrates one technoogically simple intervention that focuses the sunlight from a wide area towards a pot, allowing for zero-emissions cooking (only on sunny days, of course). ![](/Users/lucas/Desktop/Screen\ Shot\ 2021-09-18\ at\ 3.31.19\ PM.png)
-
-
+The picture below demonstrates one technoogically simple intervention that focuses the sunlight from a wide area towards a pot, allowing for zero-emissions cooking (only on sunny days, of course). ![](https://lh3.googleusercontent.com/proxy/xzUGykvimzQ0Iz1l3qw2jEVVbd_tKnBXfQMmKi7yjCpSA8qgyQgHT9tGDFExFOdsZx5EEhmj5XWBgbYLN-CVvQfYsPLmSPAmT6VKiYiuF8UebivcozVls44)
