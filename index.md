@@ -49,7 +49,7 @@ The picture below demonstrates one technogically simple intervention that focuse
 ## Week 1
 Week 1 of the course was spent on a totally unrelated design project, wherein each group had to design a product out of the worst material possible. My group chose to build an umbrella out of aluminum foil, which actually worked quite well! The top of the umbrella was built out of a grid of aluminum foil beams (for strength and rigidity), which were covered in a alumium foil sheets (for waterproofness). See the final
 produt here:
-![](./IMG_4878.HEIC "Aluminum Foil Umbrella"]
+![](Images/IMG_4878.HEIC "Aluminum Foil Umbrella"]
 
 
 ### Biography
