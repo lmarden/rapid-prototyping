@@ -7,9 +7,9 @@ This page contains information related to the term project for 22.03: Introducti
 
 
 ### Weekly Updates
-[Week 1](Week_1/index.md)
-[Week 2](Week_2/index.md)
-[Week 3](Week_3/index.md)
+[Week 1](Week_1/index.md)  
+[Week 2](Week_2/index.md)  
+[Week 3](Week_3/index.md)  
 
 
 ### Biography
