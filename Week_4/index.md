@@ -24,7 +24,7 @@ Some brief preliminary answers are provided below. I joined the materials / ener
 [Performance Comparison of Erythritol and Xylitol](https://www.sciencedirect.com/science/article/abs/pii/S245190491930246X): Explores the performance differences between erythritol (the material mentioned above) and another compound, xylitol. The materials are tested in a "double spiral coil latent heat storage system".
 
 [Wilson Solar Grill](https://solarcooking.fandom.com/wiki/Wilson_Solar_Grill): Description of a solar grill designed and manufactured by former MIT Mechanical Engineering Professor David Wilson, that uses lithium nitrate for latent heat storage, allowing for cooking after sundown. The lithium nitrate is heated directly by sunlight with a [Fresnel Lens](https://en.wikipedia.org/wiki/Fresnel_lens).   
-![Wilson Solar Grill](Images/Wilson_solar_grill)
+![Wilson Solar Grill](Images/Wilson_solar_grill.png)
 
 [Solar Thermal Fuels](https://tatacenter.mit.edu/portfolio/solar-thermal-fuels/): A look into some current work from MIT Materials Science Department Head Jeffrey Grossman, studying materials that store thermal energy for up to a few days, which can then release heat in order to be used for cooking.
 
