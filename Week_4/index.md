@@ -30,3 +30,12 @@ Some brief preliminary answers are provided below. I joined the materials / ener
 
 ##### Temperature Ranges
 There are a wide ranges of optimal cooking temperatures, for different techniques. This [article](https://www.webstaurantstore.com/article/454/types-of-cooking-methods.html) lists some of these ranges. For dry cooking (broiling, grilling, roasting, baking, sauteing), temperatures of 300&deg;F or higher are optimal. The correct temperature depends on the type of food (meat vs. bread vs. vegetables, etc.) but dry heat cooking requires higher temperatures than other types of cooking. Moist heat cooking can be done at cooler temperatures. For this method, the temperatures are more dependent on the cooking technique. For example, poaching is done at around 160&deg;F, while simmering is closer to 195&deg;F. Boiling and steaming both require water to boil, which occurs at 212&deg;F. There are some more complicated ways to combine dry and moist cooking methods, but these basic techniques will likely be more than the extent of our cooking system. Since the proposed cooking device is intended to be a shared item on campus, it must be relatively simple to operate, so there is no reason to worry about extremely niche or complicated cooking techniques.
+
+
+##### Materials
+Before we started looking into specific materials, my group discussed some necessary and/or preferable properties for the material used for latent heat storage. We came up with the following list:   
++ heat capacity: high
++ thermal conductivity: high
++ flammability: low
++ toxicity: low
++ boiling/melting/phase change temp (depending on material phase): within temperature range of chosen cooking method
