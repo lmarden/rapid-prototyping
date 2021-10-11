@@ -12,7 +12,7 @@ Based on these factors, the Energy Storge Team decided that latent heat storage 
 
 #### Heat Transfer to Cooktop
 Another topic of much discussion during the presentations was on how heat will be transferred from the storage material to the cook top. The simplest solution is to simply cook on the storage material, but this severely limits the material choices for heat storage (not to mention likely requiring sensible heat storage to be used, rather than latent). Another possible solution is diagrammed below. In this system, there is a sheet of alternating insulators and conductors, which can be moved using a knob to allow more or less of the storage material with insulators. This allows for more control over the temperature, without needing to remove an entire (incredibly hot) insulating sheet from the stove during use. This would also allow for an easy way to have a "low temperature" region of the cooktop, which was a fairly important criterion to the Cooking Team. This could be done by increasing the number of insulators in one area, so that, for example, more than 50% of the sheet is made of insulators, even in the "on" mode.  
-![./Images/heat_transfer_diagram.png]  
+![](./Images/heat_transfer_diagram.png) 
 
 #### Energy Storage Team Pin-up 1
 Please view the presentation [here](https://docs.google.com/presentation/d/1L8QO2hFe0YEIImoED_7eao3nOXle57VCv-ufpZuIcac/edit?usp=sharing). The presentation goes into a bit more detail about each type of heat storage, and provides more examples of materials that could be used for each type of heat storage.
