@@ -8,7 +8,7 @@ This week involved a guest lecture on systems thinking and marked the class' fir
 ### Systems Thinking
 The systems thinking guest lecture by MIT's NEET Program Lecturer and Curriculum Designer [Rea Lavi](https://neet.mit.edu/community/leadership) gave a brief introduction to systems thinking. This type of thinking focuses on systems holistically, and on the interactions between components, rather than on the specific function within one component (where on might be better off to apply analytical thinking techniques). One commonly used framework to think about systems thinking is the SAFO framework, which includes system architecture, function, and outcomes. The picture below analyzes a coal-based power plant using the SAFO framework.
 
-![](./Images/coal_station.png)
+![Coal Station SAFO Outline](./Images/coal_station.png)
 
 
 ### Sodium & Potassium Nitrate Boxes
