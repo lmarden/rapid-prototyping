@@ -1,5 +1,6 @@
 # Design Thinking and Rapid Prototyping Term Project
 ### Lucas Marden
+[Home](index.md)   
 
 ## Week 6
 This week involved a guest lecture on systems thinking and marked the class' first jump into actual prototyping! I spent a bit of time learning how to use [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview), which was an exciting new experience for me, as I previously had no experience in CAD modeling.

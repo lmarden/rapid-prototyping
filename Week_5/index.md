@@ -1,5 +1,6 @@
 # Design Thinking and Rapid Prototyping Term Project
 ### Lucas Marden
+[Home](index.md)   
 
 ## Week 5
 In the fifth week, the class split up into three teams, to start tackling some of the specific challenges of the project. The teams are: Energy Capture, Energy Storage, and Cooking. The teams worked independently and came together at the end of the week to discuss advances they had made, and find out more about each group's preferences. I am on the Energy storage team, and our presentation has been linked below.

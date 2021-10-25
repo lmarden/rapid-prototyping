@@ -1,5 +1,6 @@
 # Design Thinking and Rapid Prototyping Term Project
 ### Lucas Marden
+[Home](index.md)   
 
 ## Week 2
 
