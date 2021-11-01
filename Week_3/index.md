@@ -1,6 +1,6 @@
 # Design Thinking and Rapid Prototyping Term Project
 ### Lucas Marden
-[Home](index.md)   
+[Home](https://lmarden.github.io/rapid-prototyping/)   
 
 ## Week 3
 In the third week, we brainstormed a list of possible projects that might fit the project goal, while remaining within some reasonable boundaries. Some notable items from that list (though this is in no way the complete list):

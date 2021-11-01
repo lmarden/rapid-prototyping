@@ -1,6 +1,6 @@
 # Design Thinking and Rapid Prototyping Term Project
 ### Lucas Marden
-[Home](../index.md)   
+[Home](https://lmarden.github.io/rapid-prototyping/)   
 
 
 ## Week 1

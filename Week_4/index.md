@@ -1,6 +1,6 @@
 # Design Thinking and Rapid Prototyping Term Project
 ### Lucas Marden
-[Home](index.md)   
+[Home](https://lmarden.github.io/rapid-prototyping/)   
 
 ## Week 4
 In the fourth week, we narrowed down to a specific project, though not all of the details have been worked out yet. The class discussed the methods of energy collection, storage, and use at quite some length, that we had spent the third week brainstorming and researching. By the end of the group brainstorm session, we had the following criteria/outline for the project:
