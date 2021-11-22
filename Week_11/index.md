@@ -10,28 +10,28 @@ During the 11th week of class, we finished building the heat transfer mechanism 
 #### Insulation Project
 To form the outer casing of the insulation, I helped cut out and sand a few pieces of plywood. Cutting was done using a bandsaw, and sanding was done on a belt sander, as shown below.
 
-![Wood on Belt Sander](./Images/wood_on_sander)
+![Wood on Belt Sander](./Images/wood_on_sander.png)
 
 
 #### Finishing up the Prototype
 To get to a more usable prototype, I cut a last slot in the block which originally had slots cut in it. Because the block is now thinner than when slots were originally cut in it, I had to cut a more shallow slot. The block is shown below clamped into the milling machine; it is clear that the original slots extend beneath the height of the clamp. I decided to cut the last slot more shallow in order to guarantee that I could clamp the block very solidly during milling.
 
-![Block on milling machine](./Images/adding_last_slot)
+![Block on milling machine](./Images/adding_last_slot.png)
 
 
 After the slots were all cut, I cleaned up the prototype to remove any metal chips or oil on the surface. I also filed all edges to remove any risk of cut fingers while handling. I cleaned the surfaces with [Gojo Natural Orange Pumice Hand Soap](https://www.gojo.com/en/Product/0955-02) and used a metal brush to scrub in the slots. My cleaning station is pictured below:
 
-![Cleaning station](./Images/cleaning)
+![Cleaning station](./Images/cleaning.png)
 
 
 #### Temperature Testing
 Now that we have a prototype ready, we wanted to evaluate its performance before attempting to use it for cooking. My general strategy was to heat the bottom of the mechanism with a hot plate, and measure the temperatures at the top and bottom surfaces over time. More specifically, I did this by pressing a thermocouple to the inner surface of the bottom piece of the mechanism, and used an infrared thermometer to find the temperature of the top surface. The setup is shown below:
 
 Thermocouple on bottom piece:
-![Thermocouple placement](./Images/thermocouple)
+![Thermocouple placement](./Images/thermocouple.png)
 
 Using the IR thermometer:
-![IR Thermometer](./Images/IR_thermometer)
+![IR Thermometer](./Images/IR_thermometer.png)
 
 
 I collected some specific dat during the test, but the experiment was not done in the most scientific manner, so I won't list all the data here. Instead, I can include broadly what I learned from the test:
