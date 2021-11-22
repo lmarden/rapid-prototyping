@@ -17,6 +17,7 @@ This page contains information related to the term project for 22.03: Introducti
 [Week 8](Week_8/index.md)  
 [Week 9](Week_9/index.md)  
 [Week 10](Week_10/index.md)  
+[Week 11](Week_11/index.md)  
 
 ### Biography
 My name is Lucas, I am a sophomore at MIT. I am majoring in [Course 3](https://dmse.mit.edu/undergraduate/programs/3) (Materials Science and Engineering) with a minor in [Energy Studies](https://energy.mit.edu/education/undergraduate/minor/), a concentration in [French](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement/hass-concentrations), and a certificate from the NEET Climate and Sustainability Systems thread, [Energy Transition track](https://neet.mit.edu/threads/rem). I am the co-President of the [MIT Gymnastics Team](http://gymnastics.mit.edu/), and am currently UROPing at the [Electrochemical Energy Lab](https://www.rle.mit.edu/eel/).
