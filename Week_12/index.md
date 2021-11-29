@@ -20,8 +20,8 @@ Once I finished with the heat transfer mechanism, I had some time to help out on
 I also learned how to use the later cutter and helped cut out some pieces for the gear assembly at the base of the cooker, which allows for azimuthal rotation (around the vertical axis). Specifically I cut out a large ring of delrin (a type of plastic) and a gear used for the base. The drawings are pictured below:
 
 
-![Delrin ring](./Images/delrin_ring)  
-![Base gear](./Images/base_gear)
+![Delrin ring](./Images/delrin_ring.png)  
+![Base gear](./Images/base_gear.png)
 
 
 #### Skills Checklist
