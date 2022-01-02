@@ -64,6 +64,7 @@ The major takeaway from the test was that the focal lengths of both mirrors need
 #### Mounting the Mirror to the Base
 Despite our imperfect attempts to bounce light off both mirrors, we wanted to assemble the whole cooker. This required some more drilling through the frame of the mirror, as well as some assembly with parts designed and manufactured by other teams. Largely, this effort was fairly easy, and everything went off mostly without a hitch. The final product of this semester is shown below:
 
+![Final Product](./Images/final.png)
 
 #### Closing Thoughts
 Though we don't really have a working prototype right now, tt feels good to have gotten to this point. There was a lot of team effort throughout the semester, especially in the last few weeks. I think we have fleshed out the idea pretty well, generated a lot of information and documentation about the solar cooker and all of its components, and provided a very good base for future work. Personally, I enjoyed the hands-on aspect of this class; I got more exposure to machining and working with tools than I have in any other class or job in the past, which I really enjoyed. I also appreciated being able to have a significant say in the direction of my work and the project as a whole. Taking a look at my skills checklist:
